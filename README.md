@@ -5,13 +5,13 @@ I'm aiming for software engineering roles (full stack, web, mobile, and desktop)
 
 ## 🔭 Currently building
 
-**[Forkcast](https://github.com/fillicianoplong/Forkcast)**: *in progress*
+**[Forkcast](https://github.com/fillicianoplong/forkcast)**: *in progress*
 An Android-first nutrition app built around a Bluetooth food scale. You weigh food, log it against USDA FoodData Central foods, and track it toward nutrient goals. It's local-first.
 `TypeScript` · `React Native` · `Expo`
 
-**[Polaris](https://github.com/fillicianoplong/Polaris)**: *in progress (CSC 481 Software Engineering, CSUDH)*
-A local-first Windows document editor with deadline tracking. It shows folders and documents as an interactive star-and-planet map beside a Month/Week/Day calendar.
-`TypeScript` · `PlantUML/UML`
+**[Obelisk](https://github.com/fillicianoplong/obelisk)**: *in progress (CSC 481 Software Engineering, CSUDH)*
+A local-first Windows document editor for laying out real pages, with LaTeX math, tables, and images, that prints or exports to PDF, Word, and Markdown. Headed for the Microsoft Store.
+`TypeScript` · `Electron` · `React`
 
 Both projects have their requirements (SRS) and architecture docs written, and coding is just starting.
 
