@@ -13,7 +13,11 @@ An Android-first nutrition app built around a Bluetooth food scale. You weigh fo
 A local-first Windows document editor for laying out real pages, with LaTeX math, tables, and images, that prints or exports to PDF, Word, and Markdown. Headed for the Microsoft Store.
 `TypeScript` · `Electron` · `React`
 
-Both projects have their requirements (SRS) and architecture docs written, and coding is just starting.
+**[OTCP (Open TCG Project)](https://github.com/fillicianoplong/otcp)**: *in progress*
+A fast, mobile-first card reference and deck builder for trading card game players, starting with Yu-Gi-Oh!. Search and filter every card, build decks with live format legality and ban lists, plan card show trips with want lists and price totals, and track your collection.
+`TypeScript` · `React` · `Vite` · `Supabase`
+
+All three projects have their requirements (SRS) and architecture docs written, and coding is just starting.
 
 ## 🛠️ Tech stack
 
